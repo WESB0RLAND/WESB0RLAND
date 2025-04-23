@@ -1,4 +1,5 @@
-## Hi there 👋
+
+![IMG_0674](https://github.com/user-attachments/assets/e040ae40-8557-4819-b9b6-53ac8518867e)
 
 <!--
 **WESB0RLAND/WESB0RLAND** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

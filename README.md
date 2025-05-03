@@ -1,5 +1,5 @@
 <p align="center">
-   <img width="600" src="https://files.catbox.moe/49k8eu.jpeg"
+   <img width="600" src="https://files.catbox.moe/f92ymg.png"
 </p>
 <!--
 **WESB0RLAND/WESB0RLAND** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

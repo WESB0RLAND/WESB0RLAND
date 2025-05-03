@@ -11,6 +11,9 @@
   <img width="200" src="https://files.catbox.moe/ojb7y9.gif" />
   <img width="200" src="https://files.catbox.moe/m1px0f.gif" />
   <img width="200" src="https://files.catbox.moe/q0um6o.gif" />
+</p>
+
+<p align="center">
   <img width="100" src="https://files.catbox.moe/j4epn6.jpeg" />    
 </p>
 

@@ -3,6 +3,9 @@
 </p>
  
 <p align="center">
+  <img width="200" src="https://files.catbox.moe/7mwxai.gif" />
+  <img widrh="200" src="https://files.catbox.moe/zgb9xv.gif" /> 
+  <img width="200" src="https://files.catbox.moe/5cmvix.gif" />
   <img width="200" src="https://files.catbox.moe/jj6veg.gif" />
   <img width="200" src="https://files.catbox.moe/71sktw.gif" />
   <img width="200" src="https://files.catbox.moe/5rjnqa.gif" />

@@ -21,7 +21,7 @@
   <img width="100" src="https://files.catbox.moe/j4epn6.jpeg" />    
 </p>
 
-![](https://komarev.com/ghpvc/?username=WESB0RLAND&color=blueviolet)
+
 
 <!--
 **WESB0RLAND/WESB0RLAND** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

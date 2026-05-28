@@ -65,8 +65,6 @@
 </p>
 
  <p align="center"> 
-   <img width="80" src="https://files.catbox.moe/lcjl3r.png" />
-      <img width="80" src="https://files.catbox.moe/8d1rc8.png" />
      <img width="80" src="https://files.catbox.moe/38fdpn.png" />
   <img width="80" src="https://files.catbox.moe/19d2bz.jpeg" />
      <img width="80" src="https://files.catbox.moe/cki55o.png" />

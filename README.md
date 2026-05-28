@@ -12,7 +12,6 @@
    <img width="200" src="https://files.catbox.moe/tprbvh.gif" /> 
    <img width="200" src="https://files.catbox.moe/lphmse.gif" /> 
    <img width="200" src="https://files.catbox.moe/c2myty.gif" /> 
-   <img width="200" src="https://files.catbox.moe/huwtlo.gif" /> 
    <img width="200" src="https://files.catbox.moe/iiwdbs.gif" /> 
      <img width="200" src="https://files.catbox.moe/erko11.webp" /> 
      <img width="200" src="https://files.catbox.moe/tscyye.jpeg" />

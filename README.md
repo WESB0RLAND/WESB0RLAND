@@ -59,7 +59,6 @@
    <img width="80" src="https://files.catbox.moe/lt88li.gif" />
    <img width="80" src="https://files.catbox.moe/94s77t.gif" />
    <img width="80" src="https://files.catbox.moe/bp94pd.png" />
-   <img width="80" src="https://files.catbox.moe/y3g441.png" />
    <img width="80" src="https://files.catbox.moe/9a926k.gif" />
 </p>
 

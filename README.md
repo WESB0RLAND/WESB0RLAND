@@ -47,6 +47,11 @@
    <img width="80" src="https://files.catbox.moe/94s77t.gif" />
 </p>
 
+<p align="right">
+<img width="150" src="https://files.catbox.moe/urqk5i.gif" />
+<img width="100" src="https://files.catbox.moe/skw3mm.gif" />
+</p>
+
 
 
 <!--

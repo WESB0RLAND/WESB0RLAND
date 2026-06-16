@@ -1,6 +1,8 @@
 <p align="center"> 
- I HATE MICHEÁL MARTIN I NEED HIM GONE I NEED TO LEAVE THIS COUNTR
-  warning, my blinkies are a little flashy!
+ I HATE MICHEÁL MARTIN I NEED HIM GONE I NEED TO LEAVE THIS COUNTRY 
+</p>
+<p align="center">
+warning, my blinkies are a little flashy!
 </p>
 <p align="center">
    <img width="500" src="https://i.ibb.co/S7WbK5Y6/IMG-3991.png" 

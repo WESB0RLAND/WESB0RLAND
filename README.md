@@ -1,5 +1,5 @@
 <p align="center"> 
- I HATE MICHEÁL MARTIN I NEED HIM GONE I NEED HIM GONE 
+hi guys Im more active I finally finished my junior cert yay
 </p>
 <p align="center">
 warning, my blinkies are a little flashy!

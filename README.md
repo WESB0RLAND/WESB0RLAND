@@ -1,5 +1,5 @@
 <p align="center"> 
- I HATE MICHEÁL MARTIN I NEED HIM GONE I NEED TO LEAVE THIS COUNTRY 
+ I HATE MICHEÁL MARTIN I NEED HIM GONE I NEED HIM GONE 
 </p>
 <p align="center">
 warning, my blinkies are a little flashy!

@@ -1,4 +1,6 @@
 <p align="center"> 
+DNI: basic dni criteria AND if u actually like the taoiseach..
+<p align="center"> 
 #1 deadpool fan for 5 years
 </p>
 <p align="center">

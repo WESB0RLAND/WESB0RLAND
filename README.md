@@ -1,12 +1,12 @@
 $$\textrm{Warning for flashing GIFs.}$$
-$$\color{white}\textrm{"I’m not a hero, I'm a high-functioning sociopath. Merry Christmas!”}$$
+$$\textrm{"I’m not a hero, I'm a high-functioning sociopath. Merry Christmas!”}$$
 $$\color{grey}\textrm{OhWhatABeautifulMorning}$$
-$$\color{white}\textrm{,, ــــــــــــــــــــــــــــــ ,,}$$
+$$\textrm{,, ــــــــــــــــــــــــــــــ ,,}$$
 <p align="center">
    <img width="300" src="https://files.catbox.moe/tnh8tg.jpeg" 
 </p>
    
-$$\color{white}\textrm{,, ــــــــــــــــــــــــــــــ ,,}$$
+$$\textrm{,, ــــــــــــــــــــــــــــــ ,,}$$
 <p align="center">
         <img width="200" src="https://files.catbox.moe/oxzcnl.gif" /> 
       <img width="200" src="https://files.catbox.moe/iiwdbs.gif" /> 

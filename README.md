@@ -1,4 +1,4 @@
-$$\color{white}\textrm{Warning for flashing GIFs.}$$
+$$\textrm{Warning for flashing GIFs.}$$
 $$\color{white}\textrm{"I’m not a hero, I'm a high-functioning sociopath. Merry Christmas!”}$$
 $$\color{grey}\textrm{OhWhatABeautifulMorning}$$
 $$\color{white}\textrm{,, ــــــــــــــــــــــــــــــ ,,}$$

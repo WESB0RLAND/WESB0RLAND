@@ -1,30 +1,21 @@
-
-<p align="center"> 
-#1 deadpool fan for 5 years
-</p>
+$$\color{white}\textrm{Warning for flashing GIFs.}$$
+$$\color{white}\textrm{"I'm a high-functioning sociopath. Merry Christmas!”}$$
+$$\color{grey}\textrm{OhWhatABeautifulMorning}$$
+$$\color{white}\textrm{,, ــــــــــــــــــــــــــــــ ,,}$$
 <p align="center">
-warning, my blinkies are a little flashy!
+   <img width="300" src="https://files.catbox.moe/tnh8tg.jpeg" 
 </p>
+   
+$$\color{white}\textrm{,, ــــــــــــــــــــــــــــــ ,,}$$
 <p align="center">
-   <img width="500" src="https://i.ibb.co/S7WbK5Y6/IMG-3991.png" 
-</p>
- 
-<p align="center">
-     <img width="200" src="https://files.catbox.moe/huwtlo.gif" /> 
         <img width="200" src="https://files.catbox.moe/oxzcnl.gif" /> 
-        <img width="200" src="https://files.catbox.moe/m4w5z0.gif" /> 
+      <img width="200" src="https://files.catbox.moe/iiwdbs.gif" /> 
         <img width="200" src="https://files.catbox.moe/o8i4lh.gif" /> 
         <img width="200" src="https://files.catbox.moe/kzm1py.gif" /> 
         <img width="200" src="https://files.catbox.moe/z8stjs.gif" /> 
    <img width="200" src="https://files.catbox.moe/tprbvh.gif" /> 
    <img width="200" src="https://files.catbox.moe/lphmse.gif" /> 
-   <img width="200" src="https://files.catbox.moe/c2myty.gif" /> 
-   <img width="200" src="https://files.catbox.moe/iiwdbs.gif" /> 
-     <img width="200" src="https://files.catbox.moe/erko11.webp" /> 
-     <img width="200" src="https://files.catbox.moe/tscyye.jpeg" />
         <img width="200" src="https://files.catbox.moe/wqh5kl.webp" /> 
-  <img widrh="200" src="https://files.catbox.moe/zgb9xv.gif" /> 
-  <img width="200" src="https://files.catbox.moe/5cmvix.gif" />
   <img width="200" src="https://files.catbox.moe/jj6veg.gif" />
   <img width="200" src="https://files.catbox.moe/71sktw.gif" />
   <img width="200" src="https://files.catbox.moe/5rjnqa.gif" />
@@ -34,10 +25,8 @@ warning, my blinkies are a little flashy!
   <img width="200" src="https://files.catbox.moe/ojb7y9.gif" />
   <img width="200" src="https://files.catbox.moe/m1px0f.gif" />
   <img width="200" src="https://files.catbox.moe/q0um6o.gif" />
-  <img width="100" src="https://files.catbox.moe/3grwml.gif" />
   <img width="80" src="https://files.catbox.moe/ureiix.gif" />
   <img width="80" src="https://files.catbox.moe/m7akru.gif" />
-  <img width="80" src="https://files.catbox.moe/m8gtpx.png" />
   <img width="80" src="https://files.catbox.moe/oqqjj2.png" />
   <img width="80" src="https://files.catbox.moe/fo4las.gif" />
   <img width="80" src="https://files.catbox.moe/zjzgju.jpeg" />
@@ -73,7 +62,6 @@ warning, my blinkies are a little flashy!
   <img width="80" src="https://files.catbox.moe/19d2bz.jpeg" />
      <img width="80" src="https://files.catbox.moe/cki55o.png" />
      <img width="80" src="https://files.catbox.moe/zgqxia.png" />
-     <img width="80" src="https://files.catbox.moe/awcecf.gif" />
      <img width="80" src="https://files.catbox.moe/scd2wa.gif" />
      <img width="80" src="https://files.catbox.moe/cghamz.gif" />
      <img width="80" src="https://files.catbox.moe/ay37zd.png" />

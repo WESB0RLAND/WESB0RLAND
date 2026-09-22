@@ -15,16 +15,10 @@ $$\color{white}\textrm{,, ـــــــــــــــــــــــــــ
         <img width="200" src="https://files.catbox.moe/z8stjs.gif" /> 
    <img width="200" src="https://files.catbox.moe/tprbvh.gif" /> 
    <img width="200" src="https://files.catbox.moe/lphmse.gif" /> 
-        <img width="200" src="https://files.catbox.moe/wqh5kl.webp" /> 
   <img width="200" src="https://files.catbox.moe/jj6veg.gif" />
-  <img width="200" src="https://files.catbox.moe/71sktw.gif" />
   <img width="200" src="https://files.catbox.moe/5rjnqa.gif" />
   <img width="200" src="https://files.catbox.moe/9wo7yi.gif" />
-  <img width="200" src="https://files.catbox.moe/k5t5jx.gif" />
-  <img width="200" src="https://files.catbox.moe/xhd1pe.gif" />
   <img width="200" src="https://files.catbox.moe/ojb7y9.gif" />
-  <img width="200" src="https://files.catbox.moe/m1px0f.gif" />
-  <img width="200" src="https://files.catbox.moe/q0um6o.gif" />
   <img width="80" src="https://files.catbox.moe/ureiix.gif" />
   <img width="80" src="https://files.catbox.moe/m7akru.gif" />
   <img width="80" src="https://files.catbox.moe/oqqjj2.png" />

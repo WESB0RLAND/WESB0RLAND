@@ -3,7 +3,7 @@ $$\textrm{"Is feidir le mac an diabhail bheith ina rí sa tír.”}$$
 
 $$\textrm{,, ــــــــــــــــــــــــــــــ ,,}$$
 <p align="center">
-   <img width="700" src=“https://files.catbox.moe/tn8krt.png" />
+   <img width="700" src=“https://files.catbox.moe/ubxbnw.jpeg" />
 </p>
    
 $$\textrm{,, ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ ,,}$$

@@ -2,11 +2,11 @@ $$\textrm{Warning for flashing GIFs.}$$
 $$\textrm{"Is feidir le mac an diabhail bheith ina rí sa tír.”}$$
 
 $$\textrm{,, ــــــــــــــــــــــــــــــ ,,}$$
-<p align="center">
-   <img width="700" src=“https://files.catbox.moe/ubxbnw.jpeg" />
+<p align="center"> 
+  <img width="500" src="https://files.catbox.moe/tn8krt.png" /> 
 </p>
    
-$$\textrm{,, ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ ,,}$$
+$$\textrm{,, ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ ,,}$$
 <p align="center">
         <img width="200" src="https://files.catbox.moe/oxzcnl.gif" /> 
       <img width="200" src="https://files.catbox.moe/iiwdbs.gif" /> 

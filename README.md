@@ -1,9 +1,9 @@
 $$\textrm{Warning for flashing GIFs.}$$
-$$\textrm{"I’m not a hero, I'm a high-functioning sociopath. Merry Christmas!”}$$
-$$\color{grey}\textrm{OhWhatABeautifulMorning}$$
+$$\textrm{"Is feidir le mac an diabhail bheith ina rí sa tír.”}$$
+
 $$\textrm{,, ــــــــــــــــــــــــــــــ ,,}$$
 <p align="center">
-   <img width="300" src="https://files.catbox.moe/tnh8tg.jpeg" 
+   <img width="600" src="https://files.catbox.moe/ubxbnw.jpeg" 
 </p>
    
 $$\textrm{,, ــــــــــــــــــــــــــــــ ,,}$$
